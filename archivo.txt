@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 canvies en la branca principal
+=======
+contingut inicial
+>>>>>>> nova-funcionalitat
